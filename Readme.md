@@ -6,15 +6,15 @@ Noto-Pado is simple NotePad editor for text files with simple search & highlight
   - Dark UI for eye friendly experience
 
 # New Features!
-
-  - V-1.0.0 - added open file, Search & Highlight 
-  - V-1.3 - added Search Web & Enter Key Press for Search, Slight Face Lift of design
+  - V-1.0 - added search amd highlight text , clear highlight 
+  - V-1.5 - added open file, Search Web & Enter Key Press for Search, Slight Face Lift of design
   - V-2.0 - Complete redsign of the App using Metro Modern UI
   - V-2.1 - added Save feature, "Crtl + o & Ctrl + S" shotrcuts for opening file and Saving respictively 
+  - V-2.2 - check if changes to be saved before exiting, or saving text before opening new file, saving text to file if no file exists
 
 # Version & Features Highlights
-
-
+ * V-1.0
+ 
 
 
 ### Tech
