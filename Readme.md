@@ -13,8 +13,15 @@ Noto-Pado is simple NotePad editor for text files with simple search & highlight
   - V-2.2 - check if changes to be saved before exiting, or saving text before opening new file, saving text to file if no file exists
 
 # Version & Features Highlights
- * V-1.0
+ * V-1.0 - Basic Search & highlight
+ ![](images/)
  
+ * V-1.5 - Open File and Clear Text with slight UI design shift
+ ![](images/)
+ 
+ * V-2.2 - Design Reboot, with Saving and user prompt before exiting
+ - Save confirmation
+ ![](images/)
 
 
 ### Tech
