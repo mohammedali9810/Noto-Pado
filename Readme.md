@@ -14,7 +14,7 @@ Noto-Pado is simple NotePad editor for text files with simple search & highlight
 
 # Version & Features Highlights
  * V-1.0 - Basic Search & highlight
- <img src ="Images/V1-0.png" width="600" height="700">
+ <img src ="Images/V1-0.png" width="600" height="500">
  
  
  * V-1.5 - Open File and Clear Text with slight UI design shift
@@ -42,7 +42,7 @@ Noto-Pado Uses simple basic tools:
 
 * [MetroModernUI 1.4.0] - Metro Modern UI or MetroFramework brings Windows 8 UI to .NET Windows Forms applications.
 * [.NET 4.6.1] - .Net Frame Work.
-* [Win Forms] - Windows Forms for craeting Windows Application.
+* [Win Forms] - Windows Forms for creating Windows Application.
 
 
 ### Installation
