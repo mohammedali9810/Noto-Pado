@@ -18,7 +18,7 @@ Noto-Pado is simple NotePad editor for text files with simple search & highlight
  
  
  * V-1.5 - Open File and Clear Text with slight UI design shift
- <img src ="Images/V1.5.png" width="700" height="500">
+ <img src ="Images/V1-5.png" width="700" height="500">
  
  
  * V-2.2 - Design Reboot, with Saving and user prompt before exiting
